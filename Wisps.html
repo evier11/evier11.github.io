@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Wisp Locations</title>
+		
+		
+		
+	</head>
+	
+	<body>
+	
+	<div style="position: relative;">
+		<img src="Coastlands.png" style="width: 70%; position: relative;">
+		<img id="wisp 1" src="Wisp-Transparent.png" style="width: 2.7%; position: absolute; top: 0; left: 0;" onclick="toggle('wisp 1')">
+	</div>
+	
+	<script>
+		function toggle(id) {
+			var img = document.getElementById(id);
+		if (img.getAttribute('src') === "Wisp-Transparent.png") {
+			img.src = "Check.png";
+		} else {
+			img.src = "Wisp-Transparent.png";
+			}
+		
+		}
+	</script>
+	
+	</body>
+	
+</html>
