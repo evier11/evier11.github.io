@@ -1,0 +1,354 @@
+[id^="detail"] {
+	display: none;
+}
+
+#wisp-1 {
+	position: absolute;
+	left: 4.5%;
+	top: 62%;
+	width: 2.7%;
+}
+
+.place-1 #wisp-1:hover + #detail-1 {
+	display: block;
+	position: absolute;
+	left: 8%;
+	top: 65%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-2 {
+	position: absolute;
+	left: 8.3%;
+	top: 70.8%;
+	width: 2.7%;
+}
+
+.place-2 #wisp-2:hover + #detail-2 {
+	display: block;
+	position: absolute;
+	left: 11%;
+	top: 73%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-3 {
+	position: absolute;
+	left: 23%;
+	top: 74.5%;
+	width: 2.7%
+	
+}
+
+.place-3 #wisp-3:hover + #detail-3 {
+	display: block;
+	position: absolute;
+	left: 28%;
+	top: 78%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-4 {
+	position: absolute;
+	left: 33%;
+	top: 80%;
+	width: 2.7%;
+	
+}
+
+.place-4 #wisp-4:hover + #detail-4 {
+	display: block;
+	position: absolute;
+	left: 40%;
+	top: 76%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-5 {
+	position: absolute;
+	left: 46%;
+	top: 68%;
+	width: 2.7%;
+	
+}
+
+.place-5 #wisp-5:hover + #detail-5 {
+	display: block;
+	position: absolute;
+	left: 49%;
+	top: 71%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-6 {
+	position: absolute;
+	left: 64.5%;
+	top: 63%;
+	width: 2.7%;
+	
+}
+
+.place-6 #wisp-6:hover + #detail-6 {
+	display: block;
+	position: absolute;
+	left: 30%;
+	top: 66%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-7 {
+	position: absolute;
+	left: 58%;
+	top: 84%;
+	width: 2.7%;
+	
+}
+
+.place-7 #wisp-7:hover + #detail-7 {
+	display: block;
+	position: absolute;
+	left: 25%;
+	top: 60%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-8 {
+	position: absolute;
+	left: 39.5%; 
+	top: 94%;
+	width: 2.7%
+	
+}
+
+.place-8 #wisp-8:hover + #detail-8 {
+	display: block;
+	position: absolute;
+	left: 40%;
+	top: 70%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-9 {
+	position: absolute;
+	left: 15%;
+	top: 43%;
+	width: 2.7%;
+}
+
+.place-9 #wisp-9:hover + #detail-9 {
+	display: block;
+	position: absolute;
+	left: 18%;
+	top: 47%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-10 {
+	position: absolute;
+	left: 33%;
+	top: 48%;
+	width: 2.7%;
+	
+}
+
+.place-10 #wisp-10:hover + #detail-10 {
+	display: block;
+	position: absolute;
+	left: 36%;
+	top: 51%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-11 {
+	position: absolute;
+	left: 34%;
+	top: 35.5%;
+	width: 2.7%;
+	
+}
+
+.place-11 #wisp-11:hover + #detail-11 {
+	display: block;
+	position: absolute;
+	left: 37%;
+	top: 38%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-12 {
+	position: absolute;
+	left: 60%;
+	top: 26%;
+	width: 2.7%;
+}
+
+.place-12 #wisp-12:hover + #detail-12 {
+	display: block;
+	position: absolute;
+	left: 30%;
+	top: 29%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-13 {
+	position: absolute;
+	left: 63.8%;
+	top: 0.5%;
+	width: 2.7%;
+}
+
+.place-13 #wisp-13:hover + #detail-13 {
+	display: block;
+	position: absolute;
+	left: 32%;
+	top: 5%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-14 {
+	position: absolute;
+	left: 38%;
+	top: 1%;
+	width: 2.7%;
+}
+
+.place-14 #wisp-14:hover + #detail-14 {
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 5%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-15 {
+	position: absolute;
+	left: 56.5%;
+	top: 15%;
+	width: 2.7%;
+	
+}
+
+.place-15 #wisp-15:hover + #detail-15 {
+	display: block;
+	position: absolute;
+	left: 25%;
+	top: 18%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-16 {
+	position: absolute;
+	left: 17%;
+	top: 3%;
+	width: 2.7%;
+	
+}
+
+.place-16 #wisp-16:hover + #detail-16 {
+	display: block;
+	position: absolute;
+	left: 20%;
+	top: 6%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-17 {
+	position: absolute;
+	left: 11%;
+	top: 21%;
+	width: 2.7%;
+}
+
+.place-17 #wisp-17:hover + #detail-17 {
+	display: block;
+	position: absolute;
+	left: 14%;
+	top: 24%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-18 {
+	position: absolute;
+	left: 2.5%;
+	top: 24%;
+	width: 2.7%;
+}
+
+.place-18 #wisp-18:hover + #detail-18 {
+	display: block;
+	position: absolute;
+	left: 5%;
+	top: 27%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-19 {
+	position: absolute;
+	left: 26.5%;
+	top: 24.5%;
+	width: 2.7%
+	
+}
+
+.place-19 #wisp-19:hover + #detail-19 {
+	display: block;
+	position: absolute;
+	left: 29%;
+	top: 27%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
+
+#wisp-20 {
+	position: absolute;
+	left: 30%;
+	top: 26%;
+	width: 2.7%;
+}
+
+.place-20 #wisp-20:hover + #detail-20 {
+	display: block;
+	position: absolute;
+	left: 33%;
+	top: 29%;
+	float: left;
+	width: 30%;
+	z-index: 100;
+}
